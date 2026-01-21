@@ -1,4 +1,5 @@
-Realtime Chat App
+                                                                  Realtime Chat App
+
 A Realtime Chat Application built using the MERN stack (MongoDB, Express, React, Node.js), Zustand for global state management, and Socket.IO for real-time communication.
 
 Mostly followed a youtube tutorial for this.
